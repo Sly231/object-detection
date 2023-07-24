@@ -1,5 +1,4 @@
-# object-detection
-Machine Learning
+# object-detection:
 Our solution utilizes Machine Learning, specifically the pre-trained EfficientDet-D4 object detection model from TensorFlow Hub. 
 It addresses the challenge of automating object detection in images. Users can load an image, preprocess it, and then use the model to detect objects with high accuracy. 
 The main application areas include autonomous vehicles, surveillance systems, medical imaging, and content moderation. 
